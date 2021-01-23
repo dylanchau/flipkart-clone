@@ -28,7 +28,7 @@
       "sourceType": "module"
   },
   "rules": {
-      "quotes":["error", "single"],
+      "quotes":["single"],
       "semi": ["error", "always"],
       "semi-spacing": ["error", {"before": false, "after": true}],
       "semi-style": ["error", "last"],

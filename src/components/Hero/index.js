@@ -1,6 +1,6 @@
-import React from "react";
-import Navbar from "../Navbar";
-import Sidebar from "../Sidebar";
+import React from 'react';
+import Navbar from '../Navbar';
+import Sidebar from '../Sidebar';
 import {
   HeroContainer,
   HeroContent,
@@ -8,7 +8,7 @@ import {
   HeroP,
   HeroH1,
   HeroBtn,
-} from "./HeroElements";
+} from './HeroElements';
 
 const Hero = () => {
   return (
